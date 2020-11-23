@@ -1,3 +1,3 @@
 # Max-Wendt-Repository-p2
-This is a folder of all my code
-Throughout this school year all my programming work will be here
+This is a folder of all my code and
+Throughout the 2020-2021 school year all my programming work will be here
