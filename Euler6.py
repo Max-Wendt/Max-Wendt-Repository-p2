@@ -13,7 +13,7 @@ def sqsumls(sum):
 s1 = sumsqls(sum)
 s2 = sqsumls(sum)
 
-print ("Answer: " + str(s2 - s1))
+print ("Differnce of squares of sum and sum of squares is up to 100 is: " + str(s2 - s1))
     
         
     
