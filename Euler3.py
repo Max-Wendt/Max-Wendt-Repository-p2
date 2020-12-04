@@ -7,7 +7,7 @@ def primseive(n):
           return False
         return True
         
-while n <= 600851475143:
+while n <= 775146:
     n += 1
     if 600851475143 % n == 0:
          if n % 2 != 0:
