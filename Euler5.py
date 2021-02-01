@@ -5,7 +5,7 @@ def divisible(number):
     return True
 
 number = 2
-while True:
+≈while True:
     if divisible(number):
         break
     number += 2
